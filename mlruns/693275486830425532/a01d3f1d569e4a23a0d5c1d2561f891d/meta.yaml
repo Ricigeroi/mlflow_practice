@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/PycharmProjects/mlflow/mlruns/693275486830425532/a01d3f1d569e4a23a0d5c1d2561f891d/artifacts
+deleted_time: 1737864167116
+end_time: 1737864097374
+entry_point_name: ''
+experiment_id: '693275486830425532'
+lifecycle_stage: deleted
+run_id: a01d3f1d569e4a23a0d5c1d2561f891d
+run_name: random_forest_6508346c
+run_uuid: a01d3f1d569e4a23a0d5c1d2561f891d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737864088829
+status: 3
+tags: []
+user_id: andre

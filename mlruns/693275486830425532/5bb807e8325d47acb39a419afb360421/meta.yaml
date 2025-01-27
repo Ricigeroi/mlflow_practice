@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/PycharmProjects/mlflow/mlruns/693275486830425532/5bb807e8325d47acb39a419afb360421/artifacts
+deleted_time: 1737933421250
+end_time: 1737933279519
+entry_point_name: ''
+experiment_id: '693275486830425532'
+lifecycle_stage: deleted
+run_id: 5bb807e8325d47acb39a419afb360421
+run_name: logistic_regression_d64ccc1d
+run_uuid: 5bb807e8325d47acb39a419afb360421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737933273941
+status: 3
+tags: []
+user_id: andre

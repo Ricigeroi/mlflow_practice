@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/PycharmProjects/mlflow/mlruns/693275486830425532/394ee29bb9fa437e98fbbd434c9ef702/artifacts
+deleted_time: 1737933262259
+end_time: 1737933174663
+entry_point_name: ''
+experiment_id: '693275486830425532'
+lifecycle_stage: deleted
+run_id: 394ee29bb9fa437e98fbbd434c9ef702
+run_name: support_vectors_47b820af
+run_uuid: 394ee29bb9fa437e98fbbd434c9ef702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737933170153
+status: 3
+tags: []
+user_id: andre
